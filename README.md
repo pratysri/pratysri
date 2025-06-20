@@ -52,23 +52,7 @@
 - Raised over $10,000 by engaging 500+ alumni and donors.
 - Strengthened UC-alumni relationships via personalized outreach strategies.
 
----
 
-## 💻 Other Projects
-
-### 🏦 Bank Management System (C++)
-- Created a secure bank system with authentication, account management, and data encryption.
-- Emphasized use of OOP and C++ features for structure and reliability.
-
-### ✈️ Travel Guide Website
-- Interactive frontend built using HTML/CSS/JS + MySQL backend.
-- Google Maps API for real-time hotel and POI location display.
-
-### 🛒 eCommerce Grocery iOS App
-- Developed UI/UX in Swift for a seamless shopping experience.
-- Implemented navigation flows, product views, and basic cart functionality.
-
----
 
 ## 🔍 Interests & Goals
 
