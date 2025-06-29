@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pratyush Srivastava
 
-🎓 **Computer Science Student @ University of Cincinnati (Class of 2027)**  
+🎓 **Computer Science Student @ University of Cincinnati (Class of 2026)**  
 🔬 Passionate about **AI Agents**, **IoT & Embedded Systems**, and **Home Automation**  
 🚀 Actively building real-world projects and exploring startup ecosystems  
 📍 Currently in Cincinnati | 🇮🇳 Originally from Mumbai, India  
