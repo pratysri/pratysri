@@ -4,7 +4,7 @@
 🔬 Passionate about **AI Agents**, **IoT & Embedded Systems**, and **Home Automation**  
 🚀 Hackathon winner, builder at heart, exploring the intersection of AI and real-world automation  
 🌉 Attended tech events and built with YC founders in **San Francisco (Summer 2025)**  
-📍 Based in Cincinnati | 🇮🇳 From Mumbai, India  
+📍 Based in San Frnacisco | From Cincinnati, OH  
 🧠 Learning by doing — building, breaking, and rebuilding.
 
 ---
