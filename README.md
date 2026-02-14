@@ -18,11 +18,6 @@
 - Tool invocation, state syncing, and multi-tenant logic built-in.
 - **Stack**: React, CopilotKit, Supabase, FastAPI, Docker, AG-UI
 
-### 🔒 **HarsecAI – AI for Cybersecurity Logs** (In Progress)
-- Ingests **HAR files** to detect data leaks, vulnerabilities, and API misuse using AI.
-- Uses **Playwright** for browser automation + ClickHouse + Supabase for log storage.
-- Features AI-based request classification, token tracking, and network analysis.
-- **Stack**: Python, ClickHouse, Supabase, OpenAI, Playwright
 
 ### 🧠 **MCP Server – Modular Computation Protocol for Agents**
 - Auto-generates project architecture and task breakdowns from natural-language ideas.
@@ -62,9 +57,6 @@
 - 🥇 **🏆 Won Mentra x Y Combinator Hackathon**  
   Built a facial recognition app for smart glasses using AWS Rekognition + Crustdata  
   → Matched real-world faces to LinkedIn data in real time using Supabase + Webview UI
-
-- 👥 Collaborated with YC SWE's and met YC partners during **SF Tech Trip**  
-  → Demoed MVPs, pitched ideas, and explored YC application opportunities
 
 - 👨‍💻 Building **agent-powered software**, guided by real industry problems & startup founders
 
