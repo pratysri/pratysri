@@ -1,97 +1,164 @@
-# 👋 Hi, I'm Pratyush Srivastava
+# 👋 Hi, I’m Pratyush Srivastava
 
-🎓 **Computer Science Student @ University of Cincinnati (Class of 2026)**  
-🔬 Passionate about **AI Agents**, **IoT & Embedded Systems**, and **Home Automation**  
-🚀 Hackathon winner, builder at heart, exploring the intersection of AI and real-world automation  
-🌉 Attended tech events and built with YC founders in **San Francisco (Summer 2025)**  
-📍 Based in San Frnacisco | From Cincinnati, OH  
-🧠 Learning by doing — building, breaking, and rebuilding.
+**AI Software Engineer @ Proofpoint | Computer Science @ University of Cincinnati**  
+Building AI agents, automation systems, scraping infrastructure, and real-world AI products.
+
+I’m a builder focused on the intersection of **AI agents, infrastructure automation, IoT, and human-facing AI tools**. I like turning messy real-world problems into systems that discover, reason, automate, and ship.
+
+Currently based in **San Francisco, CA**, originally from Cincinnati, OH.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I’m Working On
 
-### 🧠 **Mawin – AI Agent Platform** (In Progress)
-- **Plug-and-play AI agents** for SMBs – zero setup, privacy-focused, and frontend-ready.
-- Integrates **AG-UI** and **CopilotKit** for non-technical users to operate LLM agents easily.
-- Backend-agnostic: works with OpenAI Assistants, LangGraph, etc.
-- Tool invocation, state syncing, and multi-tenant logic built-in.
-- **Stack**: React, CopilotKit, Supabase, FastAPI, Docker, AG-UI
+### 🧠 AI Services Intelligence Platform — Proofpoint
 
+I work on a customer-facing platform that helps users discover, evaluate, and assess AI tools across domains, browser extensions, plugins, and integrations.
 
-### 🧠 **MCP Server – Modular Computation Protocol for Agents**
-- Auto-generates project architecture and task breakdowns from natural-language ideas.
-- Built a backend agentic system with model routing and API spec generation.
-- Used in hackathons to turn ideas → code-ready blueprints.
-- **Stack**: Python, LangGraph, Martian, Smithery, Supabase
+- Building Python workflows that combine automated discovery, scraping, and LLM-driven analysis.
+- Designing enrichment systems that identify AI providers, integrations, capabilities, and tool metadata.
+- Developing scalable risk-scoring frameworks using LLM reasoning plus deterministic signals.
+- Engineering resilient scraping infrastructure with Redis-backed queues, scheduled jobs, browser automation, and fallback extraction for anti-bot environments.
+- Working with LLM guardrails, structured outputs, and schema-based consistency checks.
+
+**Stack:** Python, LLMs, Playwright, Redis, Docker, PostgreSQL, Supabase, OpenAI/Anthropic, scraping infrastructure
+
+---
+
+### 🧠 Mawin — AI Agent Platform
+
+A plug-and-play AI agent platform for SMBs: zero setup, privacy-focused, and frontend-ready.
+
+- Integrates AG-UI and CopilotKit so non-technical users can operate agents from clean interfaces.
+- Backend-agnostic architecture for OpenAI Assistants, LangGraph, and custom agent backends.
+- Built around tool invocation, state syncing, and multi-tenant logic.
+
+**Stack:** React, CopilotKit, Supabase, FastAPI, Docker, AG-UI
+
+---
+
+### ⚙️ MCP Server — Modular Computation Protocol for Agents
+
+A backend agentic system that turns natural-language ideas into project architecture, task breakdowns, and API specs.
+
+- Generates code-ready blueprints from high-level product ideas.
+- Uses model routing and structured planning for agent workflows.
+- Built for hackathons and rapid prototyping.
+
+**Stack:** Python, LangGraph, Martian, Smithery, Supabase
 
 ---
 
 ## 🛠️ Selected Projects
 
-### 💡 **IoT Home Automation System**
-- Engineered an **ESP-based sprinkler system** with local schedules and MQTT control.
-- Built a React Native app for controlling zones, inching, and automation.
-- Raspberry Pi audio zones + Onkyo AV receiver integration + dimmable lighting.
-- **Stack**: C++, ESP8266, MQTT, Supabase, React Native
+### 🕶️ Sauron — Smart Glasses Facial Recognition App  
+**1st Place, Mentra x Y Combinator Hackathon — July 2025**
 
-### 📊 **Home Loan Default Predictor**
-- Trained ML model to assess loan default probability with interactive dashboards.
-- Real-time metrics shown using Plotly Dash.
-- **Stack**: Scikit-learn, Pandas, Python, Plotly
+Built a real-time smart glasses app that matches faces to enriched profile data.
 
-### 💊 **Medication Tracker App**
-- Mobile app to schedule, track, and get reminders for medications.
-- Seamless UI transitions + calendar sync.
-- **Stack**: React Native, Firebase, Expo
+- Used AWS Rekognition and LinkedIn data APIs for facial recognition and identity enrichment.
+- Stored and retrieved user metadata including socials, education, and skills from Supabase.
+- Displayed matched profile information dynamically through a smart glasses interface.
 
-### 📈 **Market Sentiment Analyzer**
-- Dashboard that tracks sentiment across industries and companies from live sources.
-- Alerts triggered based on sentiment scores.
-- **Stack**: Python (VADER, NLTK), Azure DevOps, MongoDB, React
+**Stack:** AWS Rekognition, Supabase, Crustdata, Webview UI
 
 ---
 
-## 🏆 Recent Highlights
+### 📈 Real-Time Market Sentiment Analyzer
 
-- 🥇 **🏆 Won Mentra x Y Combinator Hackathon**  
-  Built a facial recognition app for smart glasses using AWS Rekognition + Crustdata  
-  → Matched real-world faces to LinkedIn data in real time using Supabase + Webview UI
+Built a distributed NLP pipeline for analyzing company and industry sentiment from live sources.
 
-- 👨‍💻 Building **agent-powered software**, guided by real industry problems & startup founders
+- Processed 50+ company feeds from Twitter, Reddit, and financial news.
+- Combined VADER, FinBERT, and LLMs for real-time sentiment analysis.
+- Built a React + Tailwind dashboard and managed CI/CD with Azure DevOps.
+
+**Stack:** Python, VADER, FinBERT, LLMs, React, Tailwind, Azure DevOps
+
+---
+
+### 💧 IoT Home Automation System
+
+Built an end-to-end smart sprinkler and home automation system.
+
+- Programmed ESP-based devices for local schedules and MQTT/cloud control.
+- Designed backend services with Node.js and AWS IoT.
+- Built a React Native app with authenticated real-time control and monitoring.
+- Extended the system with Raspberry Pi audio zones, AV receiver integration, and dimmable lighting.
+
+**Stack:** C++, ESP8266, MQTT, Node.js, AWS IoT, React Native, Supabase
+
+---
+
+### 🏠 Home Loan Approval Prediction Model
+
+Built a Python-based machine learning classifier for loan approval prediction.
+
+- Used applicant credit, debt ratio, and financial data to predict approval outcomes.
+- Built dashboards and frontend-facing prediction APIs.
+
+**Stack:** Python, Scikit-learn, Pandas, Power BI
 
 ---
 
 ## 💼 Experience
 
-### 🔧 Embedded Systems Intern – Electrocon (Mumbai, India)
-*May 2024 – Aug 2024*  
-- Developed firmware for ESP8266-based sensor systems and MQTT cloud sync.
-- Built a mobile app using React Native and Supabase backend.
+### AI Software Engineer — Proofpoint  
+**San Francisco, CA | Aug 2025 – Present**
 
-### 🎓 Student Associate – UC Foundation, Cincinnati
-*Sept 2023 – Present*  
-- Raised over $10,000 from 500+ alumni and donors.
-- Led high-impact outreach campaigns and CRM optimization.
+- Building a customer-facing AI services intelligence platform.
+- Developing LLM-powered scraping, enrichment, verification, and risk-scoring systems.
+- Engineering distributed infrastructure with Redis queues, scheduled jobs, and browser automation.
+
+### AI Automation Engineer Intern — Miami Valley SBDC & Google  
+**Dayton, OH | May 2025 – Aug 2025**
+
+- Built AI-powered trade intelligence software for SMBs.
+- Developed AI agents that analyze trade, tariff, logistics, and compliance data.
+- Built LangGraph workflows with RAG and vector search to ground recommendations in business documents and datasets.
+
+### Embedded Systems Intern — Electrocon  
+**Mumbai, India | May 2024 – Aug 2024**
+
+- Built ESP8266-based IoT automation systems.
+- Developed firmware, backend services, and a React Native app for real-time monitoring and control.
 
 ---
 
-## 🎯 Interests & Goals
+## 🏆 Highlights
 
-- 🛠️ Building tools that bridge **AI + IoT + Automation**
-- ⚙️ Obsessive about **agent frameworks**, **MCP protocols**, and **frontend-AI integration**
-- 🧪 Learning by launching – projects > tutorials
-- 💼 Open to internships / co-ops for **Spring/Summer 2026**, especially in AI/embedded startups
-- 🌐 Exploring global tech hubs — SF, NYC, India, and beyond
+- 🥇 Won the **Mentra x Y Combinator Hackathon** for a real-time smart glasses facial recognition app.
+- Built production AI infrastructure for discovering, enriching, and evaluating AI tools.
+- Developed agentic workflows using LangGraph, RAG, vector search, and external APIs.
+- Built across the stack: AI agents, web apps, embedded systems, scraping infrastructure, and automation tools.
+
+---
+
+## 🧰 Tech I Use
+
+**Languages:** Python, JavaScript/TypeScript, SQL, C++, Lua  
+**AI/Agents:** OpenAI, Anthropic, LangGraph, RAG, vector search, LLM guardrails, Claude Code  
+**Web/Infra:** React, Node.js, FastAPI, Docker, GitHub, CI/CD, Redis, Playwright  
+**Cloud/Data:** AWS, GCP, PostgreSQL, Supabase, Pandas, NumPy  
+**Embedded/IoT:** ESP8266, MQTT, AWS IoT, Raspberry Pi, React Native
+
+---
+
+## 🎯 Interests
+
+- AI agents and tool-using systems
+- Scraping, enrichment, and intelligence platforms
+- IoT, embedded systems, and home automation
+- Frontend-AI interfaces and agent UX
+- Cars, Formula 1, filmmaking, stock trading, piano, chess, and building PCs
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/pratyush-sri)
-- 📨 srivaspu@mail.uc.edu
-- 🌍 [GitHub](https://github.com/pratyush1710)
+- **LinkedIn:** [linkedin.com/in/pratyush-sri](https://linkedin.com/in/pratyush-sri)
+- **GitHub:** [github.com/pratyush1710](https://github.com/pratyush1710)
+- **Email:** pratsetu@gmail.com
 
 ---
 
-> _"Build tools that empower, not overwhelm."_ ⚡
+> _“Build tools that empower, not overwhelm.”_ ⚡
